@@ -16,7 +16,7 @@ jsonschema==3.2.0
 lxml==4.6.5
 Markdown==3.3.4
 mysqlclient==2.0.3
-Pillow==8.3.2
+Pillow==9.3.0
 pkg-resources==0.0.0
 pyrsistent==0.18.0
 python-cas==1.5.0
